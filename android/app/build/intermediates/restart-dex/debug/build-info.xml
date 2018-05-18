@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1056811785449"
+    token="3432853942189107674"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="293" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="229" />
+    <task
+        name="verifier"
+        duration="66" />
+
+    <artifact
+        location="/Users/yeshaojian/Desktop/DataStorageDemo/android/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1056811785449"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/yeshaojian/Desktop/DataStorageDemo/android/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
